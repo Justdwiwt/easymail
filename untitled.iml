@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/web/WEB-INF/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/web" relative="/" />
+        </webroots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/web/WEB-INF/classes" />
+    <output-test url="file://$MODULE_DIR$/web/WEB-INF/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/web/WEB-INF/lib" />
+          <root url="jar://C:/c3p0-0.9.1.2.jar!/" />
+          <root url="jar://D:/mysql-connector-java-5.1.44-bin.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/day17_filter/day17_filter/代码/EasyMall/WebRoot/WEB-INF/lib/jstl.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/day17_filter/day17_filter/代码/EasyMall/WebRoot/WEB-INF/lib/standard.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/day18-监听器+文件上传/day18-监听器+文件上传/文件上传/commons-io-1.4/commons-io-1.4.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/day18-监听器+文件上传/day18-监听器+文件上传/文件上传/commons-fileupload-1.2.1/commons-fileupload-1.2.1.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/Day07_JDBC预习/Day07_JDBC预习/Day12_JDBC/源码/EasyMall/WebRoot/WEB-INF/lib/commons-beanutils-1.8.3.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/Day07_JDBC预习/Day07_JDBC预习/Day12_JDBC/源码/EasyMall/WebRoot/WEB-INF/lib/commons-logging-1.1.1.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/day21- 更新丢失/day21- 更新丢失/code/EasyMall/WebRoot/WEB-INF/lib/commons-fileupload-1.2.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://C:/servlet_src.zip!/" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/web/WEB-INF/lib" recursive="false" />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="PROVIDED" name="Tomcat 8.5.20" level="application_server_libraries" />
+    <orderEntry type="library" name="lib" level="project" />
+  </component>
+</module>

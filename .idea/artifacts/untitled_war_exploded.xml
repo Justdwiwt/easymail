@@ -1,0 +1,24 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="untitled:war exploded">
+    <output-path>$PROJECT_DIR$/web/WEB-INF/classes</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="untitled/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="untitled" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="C:/c3p0-0.9.1.2.jar" />
+          <element id="file-copy" path="D:/mysql-connector-java-5.1.44-bin.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/day17_filter/day17_filter/代码/EasyMall/WebRoot/WEB-INF/lib/jstl.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/day17_filter/day17_filter/代码/EasyMall/WebRoot/WEB-INF/lib/standard.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/day18-监听器+文件上传/day18-监听器+文件上传/文件上传/commons-io-1.4/commons-io-1.4.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/day18-监听器+文件上传/day18-监听器+文件上传/文件上传/commons-fileupload-1.2.1/commons-fileupload-1.2.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/Day07_JDBC预习/Day07_JDBC预习/Day12_JDBC/源码/EasyMall/WebRoot/WEB-INF/lib/commons-beanutils-1.8.3.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/Day07_JDBC预习/Day07_JDBC预习/Day12_JDBC/源码/EasyMall/WebRoot/WEB-INF/lib/commons-logging-1.1.1.jar" />
+          <element id="file-copy" path="$USER_HOME$/Downloads/day21- 更新丢失/day21- 更新丢失/code/EasyMall/WebRoot/WEB-INF/lib/commons-fileupload-1.2.1.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
